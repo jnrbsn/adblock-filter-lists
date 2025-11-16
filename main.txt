@@ -1,0 +1,9 @@
+google.com##.hdzaWe
+kansascity.com###lightbox_popup
+kansascity.com###promo-banner
+kansascity.com###viafoura-comments
+kansascity.com##px-sellwild
+search.brave.com###clear-query-divider-mobile
+search.brave.com###submit-llm-button
+search.brave.com###submit-llm-wrapper-mobile
+search.brave.com##.suggestion.llm
