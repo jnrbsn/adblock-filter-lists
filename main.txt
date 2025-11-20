@@ -1,11 +1,6 @@
+google.com###bres
 google.com##.hdzaWe
-kansascity.com###lightbox_popup
-kansascity.com###modal
-kansascity.com###promo-banner
-kansascity.com###viafoura-comments
-kansascity.com##.ai-summary-wrapper
-kansascity.com##connatix-video-ad
-kansascity.com##px-sellwild
+google.com##[jsname="bq0EGf"]
 search.brave.com###clear-query-divider-mobile
 search.brave.com###submit-llm-button
 search.brave.com###submit-llm-wrapper-mobile

@@ -1,0 +1,10 @@
+kansascity.com###lightbox_popup
+kansascity.com###mastheadStreak
+kansascity.com###modal
+kansascity.com###promo-banner
+kansascity.com###viafoura-comments
+kansascity.com##.ai-summary-wrapper
+kansascity.com##connatix-video-ad
+kansascity.com##px-sellwild
+kansascity.com##px-trinity-audio
+kansascity.com##rate-article-experience
