@@ -1,0 +1,10 @@
+||facebook.com^
+||*.facebook.com^
+||facebook.net^
+||*.facebook.net^
+||fbcdn.net^
+||*.fbcdn.net^
+||instagram.com^
+||*.instagram.com^
+||cdninstagram.com^
+||*.cdninstagram.com^
