@@ -1,6 +1,7 @@
 kansascity.com###brz_envelope_container
 kansascity.com###lightbox_popup
 kansascity.com###mastheadStreak
+kansascity.com###media-gallery-video-gallery
 kansascity.com###modal
 kansascity.com###promo-banner
 kansascity.com###viafoura-comments
@@ -8,6 +9,7 @@ kansascity.com###zoneContainer
 kansascity.com##.ai-summary-wrapper
 kansascity.com##.gift-icon-link
 kansascity.com##.giftContainer
+kansascity.com##.partner-label
 kansascity.com##.wps-sharing-overlay-screen
 kansascity.com##connatix-video-ad
 kansascity.com##footer.footer > div:first-child
@@ -16,4 +18,5 @@ kansascity.com##header .flag-eedition
 kansascity.com##px-sellwild
 kansascity.com##px-trinity-audio
 kansascity.com##rate-article-experience
+kansascity.com##section.partner-digest-group
 kansascity.com#@#.wps-player-wrap
