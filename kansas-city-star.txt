@@ -4,7 +4,10 @@ kansascity.com###modal
 kansascity.com###promo-banner
 kansascity.com###viafoura-comments
 kansascity.com##.ai-summary-wrapper
+kansascity.com##.wps-sharing-overlay-screen
 kansascity.com##connatix-video-ad
+kansascity.com##genuin-video-player
 kansascity.com##px-sellwild
 kansascity.com##px-trinity-audio
 kansascity.com##rate-article-experience
+kansascity.com#@#.wps-player-wrap
