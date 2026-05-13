@@ -2,6 +2,7 @@ google.com###bres
 google.com##.hdzaWe
 google.com##[jsname="bq0EGf"]
 search.brave.com###clear-query-divider-mobile
+search.brave.com###llm-snippet
 search.brave.com###submit-llm-button
 search.brave.com###submit-llm-wrapper-mobile
 search.brave.com##.suggestion.ask
