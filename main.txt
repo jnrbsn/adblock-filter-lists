@@ -5,13 +5,14 @@ google.com##.INkyic
 google.com##[jsname="bq0EGf"]
 
 kagi.com##.__sri_more_menu._0_k_ui_dropdown .k_ui_dropdown_data_list hr
+kagi.com##.quick-answer-trigger-link
 kagi.com##.quick-search-btn
 kagi.com##[href="/assistant"]
 kagi.com##[href="/summarizer"]
 kagi.com##[href^="/assistant?"]
 kagi.com##[href^="/summarizer?"]
-||kagi.com/assistant^
-||kagi.com/summarizer^
+||kagi.com/assistant^$document
+||kagi.com/summarizer^$document
 
 search.brave.com###clear-query-divider-mobile
 search.brave.com###llm-snippet
