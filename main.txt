@@ -1,8 +1,22 @@
 google.com###bres
+google.com##.AuVD.wHYlTd.Ww4FFb.vt6azd
 google.com##.hdzaWe
+google.com##.INkyic
 google.com##[jsname="bq0EGf"]
+
+kagi.com###interesting_finds
+kagi.com##.__sri_more_menu._0_k_ui_dropdown .k_ui_dropdown_data_list hr
+kagi.com##.related-searches
+kagi.com##[href="/assistant"]
+kagi.com##[href="/summarizer"]
+kagi.com##[href^="/assistant?"]
+kagi.com##[href^="/summarizer?"]
+||kagi.com/assistant^
+||kagi.com/summarizer^
+
 search.brave.com###clear-query-divider-mobile
 search.brave.com###llm-snippet
+search.brave.com###search-elsewhere
 search.brave.com###submit-llm-button
 search.brave.com###submit-llm-wrapper-mobile
 search.brave.com##.suggestion.ask
