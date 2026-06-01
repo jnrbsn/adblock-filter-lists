@@ -4,9 +4,8 @@ google.com##.hdzaWe
 google.com##.INkyic
 google.com##[jsname="bq0EGf"]
 
-kagi.com###interesting_finds
 kagi.com##.__sri_more_menu._0_k_ui_dropdown .k_ui_dropdown_data_list hr
-kagi.com##.related-searches
+kagi.com##.quick-search-btn
 kagi.com##[href="/assistant"]
 kagi.com##[href="/summarizer"]
 kagi.com##[href^="/assistant?"]
