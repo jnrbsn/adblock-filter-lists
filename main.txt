@@ -11,8 +11,6 @@ kagi.com##[href="/assistant"]
 kagi.com##[href="/summarizer"]
 kagi.com##[href^="/assistant?"]
 kagi.com##[href^="/summarizer?"]
-||kagi.com/assistant^$document
-||kagi.com/summarizer^$document
 
 search.brave.com###clear-query-divider-mobile
 search.brave.com###llm-snippet
