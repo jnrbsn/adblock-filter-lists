@@ -19,3 +19,14 @@ search.brave.com###submit-llm-button
 search.brave.com###submit-llm-wrapper-mobile
 search.brave.com##.suggestion.ask
 search.brave.com##.suggestion.llm
+
+gitlab.com###menu-section-button-ai
+gitlab.com##.ai-panels
+gitlab.com##[data-track-label="orbit_menu"]
+gitlab.com##[data-track-label="upgrade_subscription"]
+
+trello.com###board > li:last-child
+trello.com###island-nav
+trello.com##[aria-owns="feedback-menu-popover-content"]
+trello.com##[aria-owns="header-info-menu-popover-content"]
+trello.com##[data-testid="view-switcher-button-more"]
