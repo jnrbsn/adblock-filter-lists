@@ -13,10 +13,15 @@ kagi.com##[href^="/assistant?"]
 kagi.com##[href^="/summarizer?"]
 
 search.brave.com###clear-query-divider-mobile
+search.brave.com###faq
+search.brave.com###infobox-snippet > footer
 search.brave.com###llm-snippet
+search.brave.com###main > footer
+search.brave.com###related-queries
 search.brave.com###search-elsewhere
 search.brave.com###submit-llm-button
 search.brave.com###submit-llm-wrapper-mobile
+search.brave.com##.infobox-footer
 search.brave.com##.suggestion.ask
 search.brave.com##.suggestion.llm
 
